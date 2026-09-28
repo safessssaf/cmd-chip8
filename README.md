@@ -4,8 +4,11 @@ It's a Chip8 emulator that runs on Windows CMD
 CONTROLS:
 L : to cycle through  themes
 1234 = 123C
+
 QWER = 456D 
+
 ASDF = 789E
+
 ZXCV = A0BF
 
 HOW TO  USE :

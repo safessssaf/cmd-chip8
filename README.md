@@ -9,7 +9,10 @@ ASDF = 789E
 ZXCV = A0BF
 
 HOW TO  USE :
-Just drop the ROM into the .exe, and it will automatically start.
+
+-It uses C++20, so make sure to compile in old C++
+-Just drop the ROM into the .exe, and it will automatically start.
+-Make sure to set the terminal size to 64x32.
 
 SCREENSHOTS:
 
